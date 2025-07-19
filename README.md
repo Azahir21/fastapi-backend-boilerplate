@@ -1,5 +1,9 @@
 # FastAPI Backend Boilerplate
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Azahir21/fastapi-backend-boilerplate)
+
+> 💡 **Have questions about this repo?** Click the badge above to ask the DeepWiki AI assistant anything about this codebase. It has analyzed the entire repository and can answer specific questions about how the code works!
+
 A **beginner-friendly**, production-ready RESTful API boilerplate using FastAPI, SQLAlchemy, JWT authentication, and clean architecture patterns.
 
 > 🎯 **Perfect for newcomers** who want to learn modern Python backend development with best practices built-in!
