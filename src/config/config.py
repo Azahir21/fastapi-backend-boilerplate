@@ -7,8 +7,8 @@ class Settings(BaseSettings):
     db_host: str = "localhost"
     db_port: int = 5432
     db_user: str = "postgres"
-    db_password: str = "123456"
-    db_name: str = "headcount_checker"
+    db_password: str = "postgres"
+    db_name: str = "your-database-name"
     db_ssl_mode: str = "disable"
 
     # JWT
